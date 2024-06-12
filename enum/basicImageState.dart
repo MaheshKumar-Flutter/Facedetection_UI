@@ -1,0 +1,1 @@
+enum BasicImageState{ success ,cancelled ,warning}
